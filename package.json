@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "windicss": "^3.1.9"
+  },
+  "scripts": {
+    "build": "windicss index.html -f windi.config.js -t"
+  }
+}
